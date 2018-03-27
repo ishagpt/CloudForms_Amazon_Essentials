@@ -21,4 +21,4 @@ manageiq_password: smartvm
 manageiq_validate_certs: false
 
 # enable extra debugging
-verbose: false
+verbose: true
