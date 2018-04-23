@@ -1,7 +1,7 @@
 ---
 # http://docs.ansible.com/ansible/latest/ec2_module.html
 aws_access_key:
-aws_secret_key:
+aws_secret_key:jbn
 
 key_name: KeyIsha    # key pair to use on the instance
 group_id: sg-03b22d75     # security group id (or list of ids) to use with the instance
