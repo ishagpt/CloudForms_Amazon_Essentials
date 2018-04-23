@@ -1,9 +1,9 @@
 ---
 # http://docs.ansible.com/ansible/latest/ec2_module.html
-aws_access_key:
-aws_secret_key:jbn
+aws_access_key: "AKIAJ7WPKO4WNC7OMW2A"
+aws_secret_key: "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"​
 
-key_name: KeyIsha    # key pair to use on the instance
+key_name: gpu    # key pair to use on the instance
 group_id: sg-03b22d75     # security group id (or list of ids) to use with the instance
 instance_type: t2.micro   # instance type to use for the instance
 image: ami-1853ac65       # ami ID to use for the instance
